@@ -36,9 +36,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diascarolinadias7-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diascarolinadias7-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -47,7 +47,7 @@
 # 🔥 Racha de contribuciones
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=diascarolinadias7-sudo&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -56,10 +56,18 @@
 
 <p align="center">
 
-<a href="https://github.com/diascarolinadias7-sudo">
+<a href="https://github.com/TUUSUARIO">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+# 🐍 Animación de serpiente
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
