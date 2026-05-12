@@ -49,6 +49,22 @@
 
 <p align="center">
 
+<a href="https://github.com/diascarolinadias7-sudo">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/_garcia.111_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/50360148075">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
 <a href="https://github.com/TUUSUARIO">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
