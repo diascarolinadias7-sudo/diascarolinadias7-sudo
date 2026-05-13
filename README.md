@@ -1,91 +1,190 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Eduardo+Jos%C3%A9;Desarrollador+de+Software;Amante+de+la+Tecnolog%C3%ADa;Bienvenido+a+mi+perfil+de+GitHub" alt="Typing SVG" />
-</h1>
+<!-- ========================= -->
+<!-- 🌌 INFORMACIÓN DE CONTACTO -->
+<!-- ========================= -->
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<style>
+
+.contact-section{
+    width:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:50px;
+    margin-bottom:50px;
+    font-family:Arial, sans-serif;
+}
+
+.contact-card{
+    width:420px;
+    background:#232733;
+    border-radius:20px;
+    padding:40px;
+    box-shadow:0 0 25px rgba(0,255,255,0.2);
+    border:1px solid rgba(0,255,255,0.2);
+}
+
+.contact-card h2{
+    color:white;
+    text-align:center;
+    font-size:40px;
+    margin-bottom:10px;
+}
+
+.line{
+    width:60px;
+    height:5px;
+    background:#00d084;
+    margin:0 auto 35px auto;
+    border-radius:10px;
+}
+
+.input-box{
+    width:100%;
+    margin-bottom:20px;
+}
+
+.input-box input,
+.input-box textarea{
+    width:100%;
+    padding:15px;
+    border:none;
+    outline:none;
+    border-radius:5px;
+    background:#515a6b;
+    color:white;
+    font-size:15px;
+}
+
+.input-box textarea{
+    resize:none;
+    height:120px;
+}
+
+.input-box input::placeholder,
+.input-box textarea::placeholder{
+    color:#d4d4d4;
+}
+
+.btns{
+    display:flex;
+    justify-content:space-between;
+    margin-top:20px;
+}
+
+.btn{
+    width:48%;
+    padding:14px;
+    border:none;
+    border-radius:10px;
+    font-size:16px;
+    cursor:pointer;
+    transition:0.3s;
+    font-weight:bold;
+}
+
+.btn-send{
+    background:#00d084;
+    color:white;
+}
+
+.btn-send:hover{
+    background:#00b36f;
+    transform:scale(1.03);
+}
+
+.btn-login{
+    background:#e0e0e0;
+    color:#333;
+}
+
+.btn-login:hover{
+    background:#cfcfcf;
+    transform:scale(1.03);
+}
+
+.contact-info{
+    margin-top:35px;
+    color:white;
+    text-align:center;
+}
+
+.contact-info a{
+    color:#00d4ff;
+    text-decoration:none;
+}
+
+.contact-info a:hover{
+    text-decoration:underline;
+}
+
+.small-text{
+    color:#ccc;
+    font-size:14px;
+    margin-top:-10px;
+    margin-bottom:20px;
+}
+
+</style>
+
+<div class="contact-section">
+
+<div class="contact-card">
+
+<h2>Registro</h2>
+
+<div class="line"></div>
+
+<!-- FORMULARIO -->
+<form action="https://formsubmit.co/diascarolinadias7@gmail.com" method="POST">
+
+<div class="input-box">
+<input type="text" name="nombre" placeholder="👤  Nombre" required>
+</div>
+
+<div class="input-box">
+<input type="email" name="correo" placeholder="📧  Correo" required>
+</div>
+
+<div class="input-box">
+<input type="password" name="password" placeholder="🔒  Contraseña" required>
+</div>
+
+<p class="small-text">
+¿Olvidaste tu Contraseña?
+<a href="#">click aquí</a>
 </p>
 
-<h3 align="center">
-💻 Estudiante de Software | 🚀 Futuro Programador | 🔥 Aprendiendo cada día
-</h3>
+<div class="input-box">
+<textarea name="mensaje" placeholder="💬  Escribe tu mensaje"></textarea>
+</div>
 
----
+<div class="btns">
 
-# 👨‍💻 Sobre mí
+<button class="btn btn-send" type="submit">
+Registro
+</button>
 
-✨ Mi nombre es **Eduardo José**  
-🎓 Estudiante de desarrollo de software  
-📚 Aprendiendo bases de datos, programación y diseño de sistemas  
-⚡ Me gusta crear proyectos modernos y profesionales  
-🔥 Siempre mejorando mis habilidades  
+<button class="btn btn-login" type="button">
+Login
+</button>
 
----
+</div>
 
-# 🚀 Tecnologías y Herramientas
+<!-- CONFIGURACIÓN -->
+<input type="hidden" name="_captcha" value="false">
+<input type="hidden" name="_next" value="https://github.com/">
 
-<p align="center">
+</form>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,postgresql,git,github,vscode" />
+<!-- CONTACTO -->
+<div class="contact-info">
 
-</p>
-
----
-
-# 📊 Estadísticas de GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Racha de contribuciones
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🌎 Redes Sociales
-
-<p align="center">
-
-<a href="https://github.com/diascarolinadias7-sudo">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/_garcia.111_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/50360148075">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🐍 Animación de contribuciones
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 📞 Información de Contacto
-
-<p align="center">
+<br>
 
 📱 <strong>Teléfono:</strong><br>
-<a href="https://wa.me/50360148075">6014 8075</a>
+<a href="https://wa.me/50360148075">
+6014 8075
+</a>
 
 <br><br>
 
@@ -97,18 +196,11 @@ diascarolinadias7@gmail.com
 <br><br>
 
 📍 <strong>Dirección:</strong><br>
-<a href="https://www.google.com/maps/search/?api=1&query=Caserio+Charamo+Abajo+Osicala+Morazan+El+Salvador">
+<a href="https://www.google.com/maps/search/?api=1&query=Caserio+Charamo+Abajo+Osicala+Morazan+El+Salvador" target="_blank">
 Caserío Charamo Abajo, Osicala, Morazán, El Salvador
 </a>
 
-</p>
+</div>
 
----
-
-<h3 align="center">
-⭐ Gracias por visitar mi perfil ⭐
-</h3>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-</p>
+</div>
+</div>
