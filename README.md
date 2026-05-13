@@ -72,10 +72,10 @@
 
 ---
 
-# 🏙️ Animación Profesional
+# 🐍 Animación de contribuciones
 
 <p align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -84,47 +84,22 @@
 
 <p align="center">
 
-📱 **Teléfono:**  
+📱 <strong>Teléfono:</strong><br>
 <a href="https://wa.me/50360148075">6014 8075</a>
 
-📧 **Correo Electrónico:**  
+<br><br>
+
+📧 <strong>Correo Electrónico:</strong><br>
 <a href="mailto:diascarolinadias7@gmail.com">
 diascarolinadias7@gmail.com
 </a>
 
-📍 **Dirección:**  
+<br><br>
+
+📍 <strong>Dirección:</strong><br>
 <a href="https://www.google.com/maps/search/?api=1&query=Caserio+Charamo+Abajo+Osicala+Morazan+El+Salvador">
 Caserío Charamo Abajo, Osicala, Morazán, El Salvador
 </a>
-
-</p>
-
----
-
-# 📨 Formulario de Contacto
-
-<p align="center">
-
-<form>
-  
-<label>👤 Nombre</label><br>
-<input type="text" placeholder="Ingrese su nombre" width="300"/>
-
-<br><br>
-
-<label>📧 Correo</label><br>
-<input type="email" placeholder="Ingrese su correo"/>
-
-<br><br>
-
-<label>💬 Mensaje</label><br>
-<textarea placeholder="Escriba su mensaje aquí"></textarea>
-
-<br><br>
-
-<button type="submit">Enviar Mensaje</button>
-
-</form>
 
 </p>
 
