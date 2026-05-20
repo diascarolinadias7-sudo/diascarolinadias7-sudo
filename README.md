@@ -1,24 +1,38 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=💻+Eduardo+José;🚀+Software+Developer;⚡+Frontend+%7C+Backend;🔥+PostgreSQL+Developer;👋+Bienvenido+a+mi+GitHub" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=💻+Eduardo+José;🚀+Software+Developer;⚡+Frontend+%7C+Backend+Developer;🔥+PostgreSQL+%7C+Java+%7C+Python;👋+Bienvenido+a+mi+GitHub" />
 </h1>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=220&section=header&text=EDUARDO%20JOSÉ&fontSize=50&fontColor=ffffff"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=EDUARDO%20JOSÉ&fontSize=55&colorA=0D1117&colorB=00F7FF&fontColor=ffffff"/>
+
+</div>
 
 ---
 
 <h2 align="center">🚀 ABOUT ME 🚀</h2>
 
-<p align="center">
+<div align="center">
 
-💻 Software Developer <br>
-⚡ Frontend & Backend Developer <br>
-🔥 PostgreSQL & Databases <br>
-🚀 Learning Every Day <br>
+<table>
+<tr>
+<td align="center">
+
+💻 Software Developer <br><br>
+
+⚡ Frontend & Backend Developer <br><br>
+
+🔥 PostgreSQL & Databases <br><br>
+
+🚀 Building Modern Projects <br><br>
+
 🇸🇻 El Salvador
 
-</p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -26,7 +40,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,postgresql,mysql,git,github,vscode,bash"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,postgresql,mysql,git,github,vscode,bash,figma"/>
 
 </p>
 
@@ -58,13 +72,13 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=diascarolinadias7-sudo&theme=algolia&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=diascarolinadias7-sudo&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
 ---
 
-<h2 align="center">🌐 SOCIAL MEDIA 🌐</h2>
+<h2 align="center">🌐 CONNECT WITH ME 🌐</h2>
 
 <p align="center">
 
@@ -94,7 +108,23 @@
 
 ---
 
-<h2 align="center">🐍 SNAKE ANIMATION 🐍</h2>
+<h2 align="center">⚡ CURRENT FOCUS ⚡</h2>
+
+<div align="center">
+
+🧠 Learning Full Stack Development <br><br>
+
+🔥 Improving PostgreSQL Skills <br><br>
+
+🚀 Creating Professional Projects <br><br>
+
+💻 Building Modern Web Applications
+
+</div>
+
+---
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE 🐍</h2>
 
 <p align="center">
 
@@ -104,14 +134,14 @@
 
 ---
 
-<h2 align="center">
+<h1 align="center">
 
-🔥 TURNING IDEAS INTO SOFTWARE 🔥
+🔥 TURNING IDEAS INTO SOFTWARE SOLUTIONS 🔥
 
-</h2>
+</h1>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=170&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=190&section=footer"/>
 
 </p>
