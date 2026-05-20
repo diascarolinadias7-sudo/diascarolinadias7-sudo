@@ -1,37 +1,73 @@
 <h1 align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hola,+Soy+Eduardo+José;💻+Desarrollador+de+Software;🚀+Frontend+%7C+Backend+%7C+Bases+de+Datos;🔥+Bienvenido+a+mi+Perfil+GitHub" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Eduardo+Jos%C3%A9;Desarrollador+de+Software;Amante+de+la+Tecnolog%C3%ADa;Bienvenido+a+mi+perfil+de+GitHub" alt="Typing SVG" />
 </h1>
 
 <p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+</p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="120"/>
+<h3 align="center">
+💻 Estudiante de Software | 🚀 Futuro Programador | 🔥 Aprendiendo cada día
+</h3>
+
+---
+
+# 👨‍💻 Sobre mí
+
+✨ Mi nombre es *Eduardo José*  
+🎓 Estudiante de desarrollo de software  
+📚 Aprendiendo bases de datos, programación y diseño de sistemas  
+⚡ Me gusta crear proyectos modernos y profesionales  
+🔥 Siempre mejorando mis habilidades  
+
+---
+
+# 🚀 Tecnologías y Herramientas
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,postgresql,git,github,vscode" />
 
 </p>
 
 ---
 
-<h2 align="center">
+# 📊 Estadísticas de GitHub
 
-⚡ ESTUDIANTE DE DESARROLLO DE SOFTWARE ⚡
+<p align="center">
 
-</h2>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diascarolinadias7-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diascarolinadias7-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 👨‍💻 Sobre Mí
+# 🔥 Racha de contribuciones
 
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=diascarolinadias7-sudo&theme=tokyonight&hide_border=true" />
+</p>
 
-```javascript
-const eduardo = {
-    nombre: "Eduardo José",
-    pais: "El Salvador 🇸🇻",
-    instagram: "@_garcia.111_",
-    estudio: "Desarrollo de Software 💻",
-    lenguajes: ["HTML", "CSS", "JavaScript", "Java", "Python"],
-    basesDeDatos: ["PostgreSQL", "MySQL"],
-    herramientas: ["Git", "GitHub", "VS Code"],
-    meta: "Convertirme en un desarrollador profesional 🚀"
-}
+---
+
+# 🌎 Redes Sociales
+
+<p align="center">
+
+<a href="https://github.com/diascarolinadias7-sudo">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Gracias por visitar mi perfil ⭐
+</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
