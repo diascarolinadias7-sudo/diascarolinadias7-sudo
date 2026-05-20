@@ -4,7 +4,7 @@
 
 <div align="center">
 
-type=venom&height=250&text=EDUARDO%20JOSÉ&fontSize=55&colorA=0D1117&colorB=00F7FF&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=EDUARDO%20JOSÉ&fontSize=55&colorA=0D1117&colorB=00F7FF&fontColor=ffffff"/>
 
 </div>
 
