@@ -1,73 +1,28 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=42&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=💻+Eduardo+José;🚀+Software+Developer;⚡+Frontend+%7C+Backend+%7C+PostgreSQL;🔥+Bienvenido+a+mi+perfil+de+GitHub" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=💻+Eduardo+José;🚀+Software+Developer;⚡+Frontend+%7C+Backend;🔥+PostgreSQL+Developer;👋+Bienvenido+a+mi+GitHub" />
 </h1>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=200&section=header&text=EDUARDO%20JOSÉ&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=220&section=header&text=EDUARDO%20JOSÉ&fontSize=50&fontColor=ffffff"/>
 </p>
 
-<div align="center">
+---
 
-```bash
-> STATUS      : ONLINE
-> USER        : Eduardo José
-> LOCATION    : El Salvador 🇸🇻
-> ROLE        : Software Developer
-> DATABASE    : PostgreSQL
-> EDITOR      : VS Code
-> LEARNING    : Full Stack Development
-```
+<h2 align="center">🚀 ABOUT ME 🚀</h2>
 
-</div>
+<p align="center">
+
+💻 Software Developer <br>
+⚡ Frontend & Backend Developer <br>
+🔥 PostgreSQL & Databases <br>
+🚀 Learning Every Day <br>
+🇸🇻 El Salvador
+
+</p>
 
 ---
 
-# 💻 ABOUT_ME.js
-
-```javascript
-class Developer {
-
-  constructor() {
-
-    this.name = "Eduardo José";
-
-    this.role = "Software Developer";
-
-    this.languages = [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Java",
-      "Python"
-    ];
-
-    this.database = [
-      "PostgreSQL",
-      "MySQL"
-    ];
-
-    this.tools = [
-      "Git",
-      "GitHub",
-      "VS Code"
-    ];
-
-    this.goal = "Become a Professional Full Stack Developer 🚀";
-  }
-
-  welcome() {
-    return "Welcome to my GitHub Profile 🔥";
-  }
-}
-
-const Eduardo = new Developer();
-
-console.log(Eduardo.welcome());
-```
-
----
-
-# ⚡ TECH STACK
+<h2 align="center">⚡ TECH STACK ⚡</h2>
 
 <p align="center">
 
@@ -77,7 +32,7 @@ console.log(Eduardo.welcome());
 
 ---
 
-# 📊 GITHUB STATS
+<h2 align="center">📊 GITHUB STATS 📊</h2>
 
 <p align="center">
 
@@ -89,27 +44,27 @@ console.log(Eduardo.welcome());
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+<h2 align="center">🔥 CONTRIBUTIONS 🔥</h2>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=diascarolinadias7-sudo&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://streak-stats.demolab.com?user=diascarolinadias7-sudo&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF"/>
 
 </p>
 
 ---
 
-# 🏆 GITHUB TROPHIES
+<h2 align="center">🏆 GITHUB TROPHIES 🏆</h2>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=diascarolinadias7-sudo&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=diascarolinadias7-sudo&theme=algolia&no-frame=true"/>
 
 </p>
 
 ---
 
-# 🌐 SOCIAL MEDIA
+<h2 align="center">🌐 SOCIAL MEDIA 🌐</h2>
 
 <p align="center">
 
@@ -129,45 +84,17 @@ console.log(Eduardo.welcome());
 
 ---
 
-# 🧠 CURRENT MISSION
-
-```yaml
-Mission:
-  - Improve programming skills
-  - Build modern applications
-  - Learn backend architecture
-  - Master PostgreSQL
-  - Become Full Stack Developer
-```
-
----
-
-# ⚙️ DEVELOPER MODE
-
-```cpp
-while(alive){
-
-   eat();
-   sleep();
-   code();
-   repeat();
-
-}
-```
-
----
-
-# 🚀 PROFILE VIEWS
+<h2 align="center">🚀 PROFILE VIEWS 🚀</h2>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=diascarolinadias7-sudo&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=diascarolinadias7-sudo&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🐍 SNAKE ANIMATION
+<h2 align="center">🐍 SNAKE ANIMATION 🐍</h2>
 
 <p align="center">
 
@@ -177,14 +104,14 @@ while(alive){
 
 ---
 
-<h3 align="center">
+<h2 align="center">
 
-🔥 "Turning ideas into software solutions." 🔥
+🔥 TURNING IDEAS INTO SOFTWARE 🔥
 
-</h3>
+</h2>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=160&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=170&section=footer"/>
 
 </p>
