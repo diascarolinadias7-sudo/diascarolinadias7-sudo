@@ -100,20 +100,10 @@
 <h2 align="center">📨 CONTACT ME 📨</h2>
 
 <p align="center">
-
 <a href="mailto:diascarolinadias7@gmail.com">
 <img src="https://img.shields.io/badge/SEND_EMAIL-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
-
 </p>
-
-<p align="center">
-
-💬 Contact me for projects, collaborations or questions.<br>
-📧 Click the button above to send me an email directly.
-
-</p>
-
 ---
 
 <h2 align="center">🚀 PROFILE VIEWS 🚀</h2>
