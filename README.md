@@ -4,10 +4,28 @@
 
 </div>
 
-<h1 align="center">💻 Software Developer | Full Stack Student 🚀</h1>
+<h1 align="center">💻 Eduardo José | Software Developer 🚀</h1>
 
 <p align="center">
 Frontend • Backend • PostgreSQL • Java • Python • GitHub
+</p>
+
+<p align="center">
+<a href="https://github.com/diascarolinadias7-sudo">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+<a href="https://instagram.com/_garcia.111_">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
+</a>
+
+<a href="https://wa.me/50360148075">
+<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00F7FF"/>
+</a>
+
+<a href="mailto:diascarolina7@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+</a>
 </p>
 
 ---
@@ -18,16 +36,12 @@ Frontend • Backend • PostgreSQL • Java • Python • GitHub
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="650">
 
-💻 <b>Software Developer</b> <br><br>
-
-⚡ <b>Frontend & Backend Developer</b> <br><br>
-
-🔥 <b>PostgreSQL & Databases</b> <br><br>
-
-🚀 <b>Building Modern Projects</b> <br><br>
-
+💻 <b>Software Developer</b><br><br>
+⚡ <b>Frontend & Backend Developer</b><br><br>
+🔥 <b>PostgreSQL & Databases</b><br><br>
+🚀 <b>Building modern and professional projects</b><br><br>
 🇸🇻 <b>El Salvador</b>
 
 </td>
@@ -74,10 +88,6 @@ Frontend • Backend • PostgreSQL • Java • Python • GitHub
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F7FF"/>
 </a>
 
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-
 <a href="https://code.visualstudio.com/">
 <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF"/>
 </a>
@@ -86,79 +96,53 @@ Frontend • Backend • PostgreSQL • Java • Python • GitHub
 
 ---
 
-<h2 align="center">📊 GITHUB STATS 📊</h2>
+<h2 align="center">📊 GITHUB STATUS 📊</h2>
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=diascarolinadias7-sudo&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF"/>
+<img src="https://komarev.com/ghpvc/?username=diascarolinadias7-sudo&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diascarolinadias7-sudo&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF"/>
+</p>
+
+<p align="center">
+
+🚀 Perfil en crecimiento · 💻 Aprendiendo cada día · 🔥 Creando proyectos profesionales
 
 </p>
 
 ---
 
-<h2 align="center">🔥 CONTRIBUTIONS 🔥</h2>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=diascarolinadias7-sudo&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF"/>
-
-</p>
-
----
-
-<h2 align="center">🏆 GITHUB TROPHIES 🏆</h2>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=diascarolinadias7-sudo&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-<h2 align="center">📂 MY PROJECTS 📂</h2>
+<h2 align="center">📂 PROJECTS & DOCUMENTS 📂</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="250">
 
-<h3>🗄️ SQL Projects</h3>
-
-<p>Database queries, PostgreSQL practice and data management.</p>
-
+<td align="center" width="280">
+<h3>🗄️ SQL & Databases</h3>
+<p>Consultas SQL, PostgreSQL, diseño de bases de datos y sistemas de información.</p>
 <a href="https://github.com/diascarolinadias7-sudo?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_SQL_PROJECTS-00F7FF?style=for-the-badge&logo=postgresql&logoColor=black"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORIES-00F7FF?style=for-the-badge&logo=postgresql&logoColor=black"/>
 </a>
-
 </td>
 
-<td align="center" width="250">
-
-<h3>💻 Web Projects</h3>
-
-<p>Frontend, backend and modern web development projects.</p>
-
+<td align="center" width="280">
+<h3>💻 Software Projects</h3>
+<p>Proyectos de programación, diseño de sistemas, UML, Java, Python y desarrollo web.</p>
 <a href="https://github.com/diascarolinadias7-sudo?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_WEB_PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-
 </td>
 
-<td align="center" width="250">
-
-<h3>📚 School Projects</h3>
-
-<p>Academic tasks, software documents and class projects.</p>
-
+<td align="center" width="280">
+<h3>📚 Academic Work</h3>
+<p>Trabajos de Word, PowerPoint y PDF sobre desarrollo de software.</p>
 <a href="https://github.com/diascarolinadias7-sudo?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_SCHOOL_PROJECTS-00F7FF?style=for-the-badge&logo=bookstack&logoColor=black"/>
+<img src="https://img.shields.io/badge/VIEW_DOCUMENTS-00F7FF?style=for-the-badge&logo=googledocs&logoColor=black"/>
 </a>
-
 </td>
+
 </tr>
 </table>
 
@@ -166,63 +150,41 @@ Frontend • Backend • PostgreSQL • Java • Python • GitHub
 
 ---
 
-<h2 align="center">📄 DOCUMENTS & PRESENTATIONS 📄</h2>
+<h2 align="center">📄 DOCUMENTS SPACE 📄</h2>
 
 <div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="300">
-
-<h3>📊 PowerPoint</h3>
-
-<p>Space for my professional presentations.</p>
-
+<h3>📊 PowerPoint Files</h3>
+<p>Aquí pondrás tus links de presentaciones PPTX.</p>
 <a href="#">
-<img src="https://img.shields.io/badge/POWERPOINT_FILES-0D1117?style=for-the-badge&logo=microsoftpowerpoint&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/ADD_POWERPOINT_LINKS-0D1117?style=for-the-badge&logo=microsoftpowerpoint&logoColor=00F7FF"/>
 </a>
-
 </td>
 
 <td align="center" width="300">
-
-<h3>📝 Word Documents</h3>
-
-<p>Space for my written documents and reports.</p>
-
+<h3>📝 Word Files</h3>
+<p>Aquí pondrás tus links de documentos DOCX.</p>
 <a href="#">
-<img src="https://img.shields.io/badge/WORD_FILES-0D1117?style=for-the-badge&logo=microsoftword&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/ADD_WORD_LINKS-0D1117?style=for-the-badge&logo=microsoftword&logoColor=00F7FF"/>
 </a>
-
 </td>
+
+<td align="center" width="300">
+<h3>📕 PDF Files</h3>
+<p>Aquí pondrás tus links de investigaciones PDF.</p>
+<a href="#">
+<img src="https://img.shields.io/badge/ADD_PDF_LINKS-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=00F7FF"/>
+</a>
+</td>
+
 </tr>
 </table>
 
 </div>
-
----
-
-<h2 align="center">🌐 CONNECT WITH ME 🌐</h2>
-
-<p align="center">
-
-<a href="https://github.com/diascarolinadias7-sudo">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-
-<a href="https://instagram.com/_garcia.111_">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
-</a>
-
-<a href="https://wa.me/50360148075">
-<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00F7FF"/>
-</a>
-
-<a href="mailto:diascarolina7@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
-</a>
-
-</p>
 
 ---
 
@@ -237,10 +199,8 @@ Frontend • Backend • PostgreSQL • Java • Python • GitHub
 </p>
 
 <p align="center">
-
-💬 Contact me for projects, collaborations or questions.<br>
-📧 Click the button above to send me an email directly.
-
+📧 Este botón abre un correo directo para contactarme.<br>
+💬 Para formulario real con Formspree, se necesita una página web aparte.
 </p>
 
 ---
@@ -250,32 +210,16 @@ Frontend • Backend • PostgreSQL • Java • Python • GitHub
 <div align="center">
 
 🧠 Learning Full Stack Development <br><br>
-
 🔥 Improving PostgreSQL Skills <br><br>
-
 🚀 Creating Professional Projects <br><br>
-
-💻 Building Modern Web Applications
+💻 Building Modern Web Applications <br><br>
+📚 Building academic and software documentation
 
 </div>
 
 ---
 
-<h2 align="center">🚀 PROFILE VIEWS 🚀</h2>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=diascarolinadias7-sudo&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-
-</p>
-
----
-
-<h1 align="center">
-
-🔥 TURNING IDEAS INTO SOFTWARE SOLUTIONS 🔥
-
-</h1>
+<h1 align="center">🔥 TURNING IDEAS INTO SOFTWARE SOLUTIONS 🔥</h1>
 
 <p align="center">
 
