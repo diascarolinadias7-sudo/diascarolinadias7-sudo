@@ -188,21 +188,19 @@ Frontend • Backend • PostgreSQL • Java • Python • GitHub
 
 ---
 
+---
+
 <h2 align="center">📝 CONTACT FORM 📝</h2>
 
 <p align="center">
 
-<a href="mailto:diascarolina7@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Eduardo%20José,%20quiero%20contactarte%20por%20un%20proyecto.">
-<img src="https://img.shields.io/badge/SEND_EMAIL-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+<a href="https://diascarolinadias7-sudo.github.io/formulario-contacto/">
+<img src="https://img.shields.io/badge/OPEN_CONTACT_FORM-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 </p>
 
-<p align="center">
-📧 Este botón abre un correo directo para contactarme.<br>
-💬 Para formulario real con Formspree, se necesita una página web aparte.
-</p>
-
+---
 ---
 
 <h2 align="center">⚡ CURRENT FOCUS ⚡</h2>
