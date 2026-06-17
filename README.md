@@ -134,6 +134,34 @@ Sistema de escritorio orientado a la gestión de clientes, construido con una in
 
 ---
 
+## 📂 Mis archivos y proyectos
+
+Los archivos de esta sección están organizados en la carpeta `archivos/`. Aquí puedes subir documentos, proyectos, capturas, scripts SQL, archivos Java, PDF, Word, PowerPoint, ZIP, imágenes y otros recursos relacionados con tu trabajo como programador.
+
+<table>
+  <tr>
+    <td align="center"><strong>☕ Java Swing</strong><br>Interfaces, formularios y proyectos de escritorio.</td>
+    <td align="center"><strong>🐘 PostgreSQL / SQL</strong><br>Consultas, reportes y scripts de base de datos.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📄 Documentos</strong><br>PDF, Word e investigaciones académicas.</td>
+    <td align="center"><strong>📦 Proyectos ZIP</strong><br>Respaldos, entregables y paquetes completos.</td>
+  </tr>
+</table>
+
+| Archivo | Categoría | Descripción | Estado |
+|---|---|---|---|
+| [☕ Ver archivo](./archivos/crud-clientes-java-swing.zip) | Java Swing | Proyecto CRUD de clientes con interfaz Java Swing y conexión a PostgreSQL. | Preparado para subir |
+| [🐘 Ver archivo](./archivos/consultas-postgresql.sql) | PostgreSQL / SQL | Script con consultas SQL, relaciones, joins, reportes y pruebas de datos. | Preparado para subir |
+| [🗄️ Ver archivo](./archivos/modelo-base-datos.png) | Bases de Datos | Diagrama, modelo relacional o captura del diseño de la base de datos. | Preparado para subir |
+| [📄 Ver archivo](./archivos/documentacion-proyecto.pdf) | Documentos | Documento técnico, investigación o guía del proyecto. | Preparado para subir |
+| [📊 Ver archivo](./archivos/presentacion-proyecto.pptx) | Presentaciones | Presentación académica o explicación visual del sistema. | Preparado para subir |
+| [🖼️ Ver archivo](./archivos/captura-sistema.png) | Imágenes | Captura de pantalla de la interfaz, formularios o resultados. | Preparado para subir |
+| [📦 Ver archivo](./archivos/proyecto-completo.zip) | Proyectos ZIP | Proyecto comprimido con código, recursos o evidencias. | Preparado para subir |
+| [🧪 Ver archivo](./archivos/recurso-extra.txt) | Otros recursos | Archivo adicional relacionado con prácticas, pruebas o aprendizaje. | Preparado para subir |
+
+---
+
 ## GitHub Stats
 
 <p align="center">
